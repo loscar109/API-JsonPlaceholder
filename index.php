@@ -11,11 +11,9 @@
 
         header("Access-Control-Allow-Origin: *");
     ?>
-    <!--
+    
     <script type="module" src="consumo-api-jsonplaceholder.js"></script>
-    -->
     
-    <script type="module" src="consumo-api-jsonpokemon.js"></script>
-    
+ 
 </body>
 </html>
